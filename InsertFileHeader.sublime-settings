@@ -1,0 +1,10 @@
+{
+    "vars": {
+        "author": "Bantya Thakare",
+        "email": "bantya@bobble.com",
+        "organisation": "Bobble Inc.",
+        "package": "Bumblerr",
+        "license": "MIT",
+    },
+    "snippet_file": "Packages/InsertFileHeader/InsertFileHeader.sublime-snippet",
+}
